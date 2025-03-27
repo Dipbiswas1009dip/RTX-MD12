@@ -1,0 +1,21 @@
+{
+  "name": "rtx-md-wa-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.12",
+    "libphonenumber-js": "^1.11.8",
+    "open": "^10.1.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
+
